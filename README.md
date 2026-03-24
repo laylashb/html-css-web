@@ -1,7 +1,20 @@
-Mes créations en html-css-web
+# 🌐 Mes créations HTML / CSS
 
-Semaine du 9 février
+Projets réalisés en HTML et CSS dans le cadre de ma Prépa Cybersécurité.
 
-Avec Mr.BLANQUART
+## 📚 Contexte
 
-Durant Prépa Cybersécurité 
+- Semaine du 9 février  
+- Avec Mr. Blanquart  
+- Formation : Prépa Cybersécurité  
+
+## 🎯 Objectif
+
+Apprendre les bases du développement web :
+- structure HTML
+- mise en page CSS
+- organisation de pages web
+
+---
+
+✍️ Travaux réalisés dans un cadre pédagogique.
